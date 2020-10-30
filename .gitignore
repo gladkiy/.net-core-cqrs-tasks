@@ -1,0 +1,13 @@
+.vs/
+.vscode/
+*.user
+bin/
+obj/
+*.orig
+*vs
+*obj
+*txt
+*cache
+*.txt
+*.cache
+PublishProfiles/
