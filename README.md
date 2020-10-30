@@ -6,3 +6,4 @@ Simple Tasks (ToDo list) app.
 - .NET Core Identity
 - Entity Framework Core
 - CQRS pattern
+- Unit tests of Controllers with xUnit and Moq
